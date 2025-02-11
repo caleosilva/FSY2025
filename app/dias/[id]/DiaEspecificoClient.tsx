@@ -2,6 +2,8 @@
 
 import DialogActivity from "@/components/formatedComponents/DialogActivity";
 import { useActivities } from "@/hooks/useActivities";
+import { useRouter } from "next/navigation";
+import { useEffect } from "react";
 
 interface DaysResponse {
   dia1: string[];
@@ -14,8 +16,23 @@ interface DaysResponse {
 type DayKeys = keyof DaysResponse;
 
 export default function DiaEspecificoClient({ params }: { params: { id: string } }) {
+  const router = useRouter();
+
   const dayKey: DayKeys = (`dia${params.id}` as DayKeys);
   const activities = useActivities(dayKey);
+
+  useEffect(() => {
+    const handleBackButton = () => {
+      router.push("/dias"); // Redireciona para /dias ao voltar
+    };
+
+    window.history.pushState(null, "", window.location.href); // Empurra um novo estado para evitar o fechamento
+    window.addEventListener("popstate", handleBackButton); // Captura o evento de voltar
+
+    return () => {
+      window.removeEventListener("popstate", handleBackButton); // Remove o evento ao desmontar
+    };
+  }, [router]);
 
   return (
     <div className="flex flex-col h-screen overflow-y-auto pb-20 bg-gray-100">

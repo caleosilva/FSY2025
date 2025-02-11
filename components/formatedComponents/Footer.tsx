@@ -1,5 +1,5 @@
 import Link from "next/link";
-import { HomeIcon, ClockIcon, ListBulletIcon, InfoCircledIcon, LockClosedIcon } from "@radix-ui/react-icons";
+import { HomeIcon, ClockIcon, ListBulletIcon, LockClosedIcon } from "@radix-ui/react-icons";
 
 export default function Footer() {
     return (
