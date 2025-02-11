@@ -37,13 +37,7 @@ export default function Home() {
           <br />Embora seja um recurso prático, ele <span className="font-semibold text-red-500">não substitui</span> o estudo do manual oficial, essencial para sua preparação.
         </p>
 
-        {/* E-mail do responsável com botão estilizado */}
-        <a
-          href="mailto:caleosilva75@gmail.com"
-          className="bg-blue-600 text-white px-4 py-2 rounded-lg shadow hover:bg-blue-700 transition"
-        >
-          Enviar Sugestões ou Dúvidas
-        </a>
+        
       </div>
 
 
