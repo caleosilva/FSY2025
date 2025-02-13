@@ -1,5 +1,5 @@
 import Link from "next/link";
-import { HomeIcon, ClockIcon, ListBulletIcon, LockClosedIcon } from "@radix-ui/react-icons";
+import { HomeIcon, ClockIcon, ListBulletIcon, LockClosedIcon, DrawingPinIcon } from "@radix-ui/react-icons";
 
 export default function Footer() {
     return (
@@ -28,6 +28,12 @@ export default function Footer() {
                 <Link href="/dias" className="group text-center flex flex-col items-center transition-transform duration-300 hover:scale-110 relative">
                     <ListBulletIcon className="w-6 h-6 mb-1 group-hover:text-blue-400 transition-colors duration-300" />
                     <p className="text-xs group-hover:text-blue-400">Dias</p>
+                </Link>
+
+                {/* Mapa */}
+                <Link href="/local" className="group text-center flex flex-col items-center transition-transform duration-300 hover:scale-110 relative">
+                    <DrawingPinIcon className="w-6 h-6 mb-1 group-hover:text-blue-400 transition-colors duration-300" />
+                    <p className="text-xs group-hover:text-blue-400">Local</p>
                 </Link>
             </div>
         </footer>
