@@ -21,7 +21,7 @@ export default function Mapa() {
                 <TransformWrapper>
                     <TransformComponent>
                         <Image
-                            src="/Manaim3.jpg"
+                            src="/Maanaim.jpg"
                             alt="Mapa do Local"
                             width={1000}
                             height={600}
@@ -31,8 +31,9 @@ export default function Mapa() {
                 </TransformWrapper>
 
                 {/* Descrição abaixo da imagem */}
-                <p className="text-gray-600 text-sm text-center px-6">
-                    🔍 Toque na imagem para dar zoom e explorar os detalhes do acampamento.
+                <p className="text-gray-800 text-base text-center px-6 ">
+                    Dica: faça <span className="font-semibold text-blue-600">movimentos de pinça</span> com dois
+                    dedos para dar zoom e explorar os detalhes do mapa.
                 </p>
             </div>
 
