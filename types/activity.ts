@@ -59,3 +59,14 @@ export interface DataStructure {
   "3"?: Section3;
   "4"?: Section4;
 }
+
+export interface Consultor {
+  id: number;
+  dupla: string[];
+}
+
+export interface CAGroup {
+  cas: string[];
+  cor: string;
+  consultores: Consultor[];
+}

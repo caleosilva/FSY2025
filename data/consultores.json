@@ -1,0 +1,72 @@
+[
+    {
+      "cas": ["Lucas Moreno", "Amanda Melo"],
+      "cor": "#ffde59",
+      "consultores": [
+        { "id": 16, "dupla": ["Jonathan Silva", "Bianca Silva"] },
+        { "id": 17, "dupla": ["Carlos Henrique", "Jaqueline Borges"] },
+        { "id": 18, "dupla": ["Italo da Silva", "Mariana"] },
+        { "id": 1, "dupla": ["Vitor Costa", "Aghata Mirley"] },
+        { "id": 2, "dupla": ["Fernando Carvalho", "Vanessa Miranda"] }
+      ]
+    },
+    {
+      "cas": ["Pedro Novaes", "Marina de Jesus"],
+      "cor": "#ff914d",
+      "consultores": [
+        { "id": 19, "dupla": ["Anthony", "Taline Santos"] },
+        { "id": 3, "dupla": ["Jared Nogueira", "Ana Carolina"] },
+        { "id": 4, "dupla": ["Arthur Dias", "Jasmim Rocha "] },
+        { "id": 20, "dupla": ["Wesley Santos", "Cecília Maria"] }
+      ]
+    },
+    {
+      "cas": ["Luandson Souza", "Elen Barbosa"],
+      "cor": "#cb6ce6",
+      "consultores": [
+        { "id": 5, "dupla": ["Gustavo Sousa", "Maria Luiza"] },
+        { "id": 6, "dupla": ["Igor Pires", "Raiana Monique"] },
+        { "id": 21, "dupla": ["Tiago dos Santos", "Mirna Freitas"] },
+        { "id": 22, "dupla": ["Douglas do Nascimento", "Sarah Veríssimo"] }
+      ]
+    },
+    {
+      "cas": ["David Pacheco", "Melissa Sodré"],
+      "cor": "#ff3131",
+      "consultores": [
+        { "id": 7, "dupla": ["Amom", "Sarah"] },
+        { "id": 8, "dupla": ["Guilherme", "Ariane Miranda"] },
+        { "id": 23, "dupla": ["Gabriel Anunciação", "Juliana Sales"] }
+      ]
+    },
+    {
+      "cas": ["William Mercês", "Laiane Teles"],
+      "cor": "#5271ff",
+      "consultores": [
+        { "id": 24, "dupla": ["Gabriel Mercês", "Nayla Lima"] },
+        { "id": 9, "dupla": ["Carlos Emanuel", "Micaele Silva Suzart e Andressa Camila"] },
+        { "id": 10, "dupla": ["Cainan Ribeiro", "Ludimilla Bispo"] },
+        { "id": 25, "dupla": ["Samuel Dias", "Melissa"] }
+      ]
+    },
+    {
+      "cas": ["Odailton David", "Julia Paixão"],
+      "cor": "#00bf63",
+      "consultores": [
+        { "id": 11, "dupla": ["Wellington", "Brenda Carmo"] },
+        { "id": 12, "dupla": ["Andrey", "Eduarda Nunes"] },
+        { "id": 13, "dupla": ["Jeferson Matos", "Bianca Sinval"] }
+      ]
+    },
+    {
+      "cas": ["Mateus Brito", "Marcella Lima"],
+      "cor": "#ff66c4",
+      "consultores": [
+        { "id": 27, "dupla": ["Diego Santos Moreira", "Raquel da Silva"] },
+        { "id": 14, "dupla": ["Anderson Reis", "Bianca Assis"] },
+        { "id": 15, "dupla": ["Patrick Masceno", "Débora Mayla"] },
+        { "id": 26, "dupla": ["Fernando Mercês", "Mayana"] }
+      ]
+    }
+  ]
+  
