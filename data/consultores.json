@@ -3,69 +3,69 @@
       "cas": ["Lucas Moreno", "Amanda Melo"],
       "cor": "#ffde59",
       "consultores": [
-        { "id": 16, "dupla": ["Jonathan Silva", "Bianca Silva"] },
-        { "id": 17, "dupla": ["Carlos Henrique", "Jaqueline Borges"] },
-        { "id": 18, "dupla": ["Italo da Silva", "Mariana"] },
-        { "id": 1, "dupla": ["Vitor Costa", "Aghata Mirley"] },
-        { "id": 2, "dupla": ["Fernando Carvalho", "Vanessa Miranda"] }
+        { "id": 16, "dupla": ["Jonathan Silva", "Bianca Silva"], "escritura": "Moisés 1:39" },
+        { "id": 17, "dupla": ["Carlos Henrique", "Jaqueline Borges"], "escritura": "1 Néfi 3:7" },
+        { "id": 18, "dupla": ["Italo da Silva", "Mariana"], "escritura": "Moisés 7:18" },
+        { "id": 1, "dupla": ["Vitor Costa", "Aghata Mirley"], "escritura": "2 Néfi 2:25" },
+        { "id": 2, "dupla": ["Fernando Carvalho", "Vanessa Miranda"], "escritura": "Mateus 5:14–16" }
       ]
     },
     {
       "cas": ["Pedro Novaes", "Marina de Jesus"],
       "cor": "#ff914d",
       "consultores": [
-        { "id": 19, "dupla": ["Anthony", "Taline Santos"] },
-        { "id": 3, "dupla": ["Jared Nogueira", "Ana Carolina"] },
-        { "id": 4, "dupla": ["Arthur Dias", "Jasmim Rocha "] },
-        { "id": 20, "dupla": ["Wesley Santos", "Cecília Maria"] }
+        { "id": 19, "dupla": ["Anthony", "Taline Santos"], "escritura": "João 3:5" },
+        { "id": 3, "dupla": ["Jared Nogueira", "Ana Carolina"], "escritura": "D&C 18:10–11" },
+        { "id": 4, "dupla": ["Arthur Dias", "Jasmim Rocha "], "escritura": "João 14:6" },
+        { "id": 20, "dupla": ["Wesley Santos", "Cecília Maria"], "escritura": "2 Néfi 32:3" }
       ]
     },
     {
       "cas": ["Luandson Souza", "Elen Barbosa"],
       "cor": "#cb6ce6",
       "consultores": [
-        { "id": 5, "dupla": ["Gustavo Sousa", "Maria Luiza"] },
-        { "id": 6, "dupla": ["Igor Pires", "Raiana Monique"] },
-        { "id": 21, "dupla": ["Tiago dos Santos", "Mirna Freitas"] },
-        { "id": 22, "dupla": ["Douglas do Nascimento", "Sarah Veríssimo"] }
+        { "id": 5, "dupla": ["Gustavo Sousa", "Maria Luiza"], "escritura": "D&C 18:15–16" },
+        { "id": 6, "dupla": ["Samuel dos Santos", "Raiana Monique"], "escritura": "Josué 24:15" },
+        { "id": 21, "dupla": ["Tiago dos Santos", "Mirna Freitas"], "escritura": "João 14:15" },
+        { "id": 22, "dupla": ["Douglas do Nascimento", "Sarah Veríssimo"], "escritura": "Mosias 2:17" }
       ]
     },
     {
       "cas": ["David Pacheco", "Melissa Sodré"],
       "cor": "#ff3131",
       "consultores": [
-        { "id": 7, "dupla": ["Amom", "Sarah"] },
-        { "id": 8, "dupla": ["Guilherme", "Ariane Miranda"] },
-        { "id": 23, "dupla": ["Gabriel Anunciação", "Juliana Sales"] }
+        { "id": 7, "dupla": ["Amom", "Sarah"], "escritura": "D&C 19:23" },
+        { "id": 8, "dupla": ["Guilherme", "Ariane Miranda"], "escritura": "Mosias 3:19" },
+        { "id": 23, "dupla": ["Igor Pires", "Juliana Sales"], "escritura": "D&C 46:33" }
       ]
     },
     {
       "cas": ["William Mercês", "Laiane Teles"],
       "cor": "#5271ff",
       "consultores": [
-        { "id": 24, "dupla": ["Gabriel Mercês", "Nayla Lima"] },
-        { "id": 9, "dupla": ["Carlos Emanuel", "Micaele Silva Suzart e Andressa Camila"] },
-        { "id": 10, "dupla": ["Cainan Ribeiro", "Ludimilla Bispo"] },
-        { "id": 25, "dupla": ["Samuel Dias", "Melissa"] }
+        { "id": 24, "dupla": ["Gabriel Mercês", "Nayla Lima"], "escritura": "Alma 32:21" },
+        { "id": 9, "dupla": ["Carlos Emanuel", "Micaele Silva Suzart e Andressa Camila"], "escritura": "Alma 37:35" },
+        { "id": 10, "dupla": ["Cainan Ribeiro", "Ludimilla Bispo"], "escritura": "Filipenses 4:13" },
+        { "id": 25, "dupla": ["Samuel Dias", "Melissa"], "escritura": "Helamã 5:12" }
       ]
     },
     {
       "cas": ["Odailton David", "Julia Paixão"],
       "cor": "#00bf63",
       "consultores": [
-        { "id": 11, "dupla": ["Wellington", "Brenda Carmo"] },
-        { "id": 12, "dupla": ["Andrey", "Eduarda Nunes"] },
-        { "id": 13, "dupla": ["Jeferson Matos", "Bianca Sinval"] }
+        { "id": 11, "dupla": ["Wellington", "Brenda Carmo"], "escritura": "D&C 78:19" },
+        { "id": 12, "dupla": ["Andrey", "Eduarda Nunes"], "escritura": "Tiago 1:5–6" },
+        { "id": 13, "dupla": ["Jeferson Matos", "Bianca Sinval"], "escritura": "Éter 12:27" }
       ]
     },
     {
       "cas": ["Mateus Brito", "Marcella Lima"],
       "cor": "#ff66c4",
       "consultores": [
-        { "id": 27, "dupla": ["Diego Santos Moreira", "Raquel da Silva"] },
-        { "id": 14, "dupla": ["Anderson Reis", "Bianca Assis"] },
-        { "id": 15, "dupla": ["Patrick Masceno", "Débora Mayla"] },
-        { "id": 26, "dupla": ["Fernando Mercês", "Mayana"] }
+        { "id": 27, "dupla": ["Diego Santos Moreira", "Raquel da Silva"], "escritura": "Amós 3:7" },
+        { "id": 14, "dupla": ["Anderson Reis", "Bianca Assis"], "escritura": "Morôni 7:41" },
+        { "id": 15, "dupla": ["Patrick Masceno", "Débora Mayla"], "escritura": "1 Samuel 16:7" },
+        { "id": 26, "dupla": ["Fernando Mercês", "Mayana"], "escritura": "Atos 3:19–21" }
       ]
     }
   ]

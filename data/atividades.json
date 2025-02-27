@@ -4,7 +4,7 @@
             "dia1": "8h30 - 9h15"
         },
         "name": "Reunião administrativa",
-        "location": "Auditório secundário",
+        "location": "Auditório 02",
         "key_points": [
             {
                 "title": "Última reunião da liderança",
@@ -17,7 +17,7 @@
             "dia1": "11h - 13h"
         },
         "name": "Chegada dos participantes",
-        "location": "Auditório central",
+        "location": "Auditório 01",
         "key_points": [
             {
                 "title": "Primeira impressão",
@@ -94,7 +94,7 @@
             "dia1": "15h40 - 16h25"
         },
         "name": "Orientação",
-        "location": "Auditório central",
+        "location": "Auditório 01",
         "key_points": [
             {
                 "title": "Conheça a liderança",
@@ -140,7 +140,7 @@
             "dia1": "19h45 - 20h35"
         },
         "name": "Lição da noite familiar",
-        "location": "Auditório central",
+        "location": "Auditório 01",
         "key_points": [
             {
                 "title": "Silêncio e trabalho",
@@ -251,7 +251,7 @@
             "dia5": "7h45 - 8h"
         },
         "name": "Reunião matutina do coordenador assistente/consultor",
-        "location": "Auditório central",
+        "location": "Auditório 01",
         "key_points": [
             {
                 "title": "Recebimento de anúncios",
@@ -312,7 +312,7 @@
             "dia2": "9h30 - 10h30"
         },
         "name": "Reunião Sacramental",
-        "location": "Auditório central",
+        "location": "Auditório 01",
         "key_points": [
             {
                 "title": "Liderança presente",
@@ -559,7 +559,7 @@
             "dia2": "19h45 - 20h35"
         },
         "name": "Devocional Noturno",
-        "location": "Auditório central",
+        "location": "Auditório 01",
         "key_points": [
             {
                 "title": "Pontualidade e atenção",
@@ -707,7 +707,7 @@
             "dia3": "19h00 - 21h00"
         },
         "name": "Baile + Lanche nos 30 Minutos Finais",
-        "location": "Auditório central",
+        "location": "Auditório 01",
         "key_points": [
             {
                 "title": "Supervisão dos Jovens",
@@ -728,7 +728,7 @@
             "dia4": "10h00 - 11h00"
         },
         "name": "Devocional do Casal Diretor de Sessão (Rapazes)",
-        "location": "Auditório secundário",
+        "location": "Auditório 02",
         "key_points": [
             {
                 "title": "Separação por grupos",
@@ -745,7 +745,7 @@
             "dia4": "11h20 - 12h20"
         },
         "name": "Devocional do Casal Diretor de Sessão (Moças)",
-        "location": "Auditório secundário",
+        "location": "Auditório 02",
         "key_points": [
             {
                 "title": "Separação por grupos",
@@ -762,7 +762,7 @@
             "dia4": "10h - 11h"
         },
         "name": "Atividade O Cristo Vivo (Moças)",
-        "location": "Auditório central",
+        "location": "Auditório 01",
         "key_points": [
             {
                 "title": "Dinâmica da atividade",
@@ -788,7 +788,7 @@
             "dia4": "11h20 - 12h20"
         },
         "name": "Atividade O Cristo Vivo (Rapazes)",
-        "location": "Auditório central",
+        "location": "Auditório 01",
         "key_points": [
             {
                 "title": "Dinâmica da atividade",
@@ -814,7 +814,7 @@
             "dia4": "13h - 14h"
         },
         "name": "Ensaio Final para o Show de Variedades",
-        "location": "Auditório secundário",
+        "location": "Auditório 02",
         "key_points": [
             {
                 "title": "Preparação",
@@ -848,7 +848,7 @@
             "dia4": "14h20 - 15h40"
         },
         "name": "Show de Variedades",
-        "location": "Auditório central",
+        "location": "Auditório 01",
         "key_points": [
             {
                 "title": "Abertura",
@@ -869,7 +869,7 @@
             "dia4": "16h - 16h50"
         },
         "name": "Ensaio Final para o Programa Musical",
-        "location": "Auditório secundário",
+        "location": "Auditório 02",
         "key_points": [
             {
                 "title": "Apoio no ensaio",
@@ -882,7 +882,7 @@
             "dia4": "18h30 - 19h40"
         },
         "name": "Programa Musical e Devocional do Casal Diretor",
-        "location": "Auditório central",
+        "location": "Auditório 01",
         "key_points": [
             {
                 "title": "Chegada no horário",
@@ -957,7 +957,7 @@
             "dia5": "10h25 - 10h40"
         },
         "name": "Apresentação de Slides",
-        "location": "Auditório central",
+        "location": "Auditório 01",
         "key_points": [
             {
                 "title": "Transição organizada",
@@ -970,7 +970,7 @@
             "dia5": "10h40 - 11h40"
         },
         "name": "O que vou levar para casa",
-        "location": "Auditório central",
+        "location": "Auditório 01",
         "key_points": [
             {
                 "title": "Devocional final",
@@ -1017,7 +1017,7 @@
             "dia3": "10h30 - 11h20"
         },
         "name": "Devocional do casal diretor de sessão",
-        "location": "Auditório central",
+        "location": "Auditório 01",
         "key_points": [
             {
                 "title": "Pontualidade",
@@ -1038,7 +1038,7 @@
             "dia3": "12h30 - 13h50"
         },
         "name": "Testes para o Show de Variedades",
-        "location": "Auditório secundário",
+        "location": "Auditório 02",
         "key_points": [
             {
                 "title": "Oportunidade para os jovens",
@@ -1056,7 +1056,7 @@
             "dia3": "12h30 - 13h50"
         },
         "name": "Ensaio do Programa Musical",
-        "location": "Refeitório e auditório secundário",
+        "location": "Refeitório e auditório 02",
         "key_points": [
             {
                 "title": "Participação no ensaio",

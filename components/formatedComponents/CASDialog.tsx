@@ -19,7 +19,7 @@ export default function ConsultorDialog() {
             <Dialog open={open} onOpenChange={setOpen}>
                 <DialogTrigger asChild>
                     <Button variant="outline">
-                        <MapPinCheckInside /> Informações das companhias
+                        <MapPinCheckInside /> Clique e acesse as informações das companhias
                     </Button>
 
                 </DialogTrigger>
@@ -53,6 +53,7 @@ export default function ConsultorDialog() {
                                         <div key={consultor.id} className="flex flex-col px-4 py-3 bg-white rounded-lg shadow-md">
                                             <span className="font-bold text-gray-800 text-center">Companhia {consultor.id}</span>
                                             <span className="text-gray-600 text-center">{consultor.dupla.join(" & ")}</span>
+                                            <span className="font-bold text-gray-800 text-center">{consultor.escritura}</span>
                                         </div>
                                     ))}
                                 </AccordionContent>

@@ -63,6 +63,7 @@ export interface DataStructure {
 export interface Consultor {
   id: number;
   dupla: string[];
+  escritura: string;
 }
 
 export interface CAGroup {
