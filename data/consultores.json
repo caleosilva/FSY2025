@@ -3,7 +3,7 @@
       "cas": ["Lucas Moreno", "Amanda Melo"],
       "cor": "#ffde59",
       "consultores": [
-        { "id": 16, "dupla": ["Jonathan Silva", "Bianca Silva"], "escritura": "Moisés 1:39" },
+        { "id": 26, "dupla": ["Jonathan Silva", "Bianca Silva"], "escritura": "Moisés 1:39" },
         { "id": 17, "dupla": ["Carlos Henrique", "Jaqueline Borges"], "escritura": "1 Néfi 3:7" },
         { "id": 1, "dupla": ["Vitor Costa", "Aghata Mirley"], "escritura": "2 Néfi 2:25" },
         { "id": 2, "dupla": ["Fernando Carvalho", "Vanessa Miranda"], "escritura": "Mateus 5:14–16" }
@@ -34,9 +34,9 @@
       "cor": "#ff3131",
       "consultores": [
         { "id": 7, "dupla": ["Amom", "Sarah"], "escritura": "D&C 19:23" },
-        { "id": 26, "dupla": ["Guilherme", "Ariane Miranda"], "escritura": "Mosias 3:19" },
-        { "id": 18, "dupla": ["Italo da Silva", "Damaris Santana"], "escritura": "Moisés 7:18" },
-        { "id": 23, "dupla": ["Igor Pires", "Juliana Sales"], "escritura": "D&C 46:33" }
+        { "id": 27, "dupla": ["Guilherme", "Ariane Miranda"], "escritura": "Mosias 3:19" },
+        { "id": 23, "dupla": ["Igor Pires", "Juliana Sales"], "escritura": "D&C 46:33" },
+        { "id": 18, "dupla": ["Italo da Silva", "Mariana"], "escritura": "Moisés 7:18" }
       ]
     },
     {
@@ -44,7 +44,7 @@
       "cor": "#5271ff",
       "consultores": [
         { "id": 24, "dupla": ["Gabriel Mercês", "Nayla Lima"], "escritura": "Alma 32:21" },
-        { "id": 9, "dupla": ["Carlos Emanuel", "Micaele Silva Suzart e Mariana de Jesus"], "escritura": "Alma 37:35" },
+        { "id": 9, "dupla": ["Carlos Emanuel", "Micaele Silva"], "escritura": "Alma 37:35" },
         { "id": 10, "dupla": ["Cainan Ribeiro", "Ludimilla Bispo"], "escritura": "Filipenses 4:13" },
         { "id": 25, "dupla": ["Samuel Dias", "Melissa"], "escritura": "Helamã 5:12" }
       ]
@@ -62,7 +62,7 @@
       "cas": ["Mateus Brito", "Marcella Lima"],
       "cor": "#ff66c4",
       "consultores": [
-        { "id": 27, "dupla": ["Diego Santos Moreira", "Raquel da Silva"], "escritura": "Amós 3:7" },
+        { "id": 16, "dupla": ["Diego Santos Moreira", "Raquel da Silva"], "escritura": "Amós 3:7" },
         { "id": 14, "dupla": ["Anderson Reis", "Bianca Assis"], "escritura": "Morôni 7:41" },
         { "id": 15, "dupla": ["Patrick Masceno", "Débora Mayla"], "escritura": "1 Samuel 16:7" },
         { "id": 8, "dupla": ["Fernando Mercês", "Mayana"], "escritura": "Atos 3:19–21" }
